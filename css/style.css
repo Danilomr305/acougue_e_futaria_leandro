@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2? family= Open+Sans:wght@300;400;500 & family= Playfair+Display:ital,wght@0,600;1,800;1,900 & exibir=trocar');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@font-face {
+    font-family: 'font';
+    src: url('fontes/Swallow Kick.otf') format('opentype');
+    font-weight: normal;
+}
+
+:root {
+
+    /*FONTE TITULO H1*/
+    --fonte-titulo1: 'Playfair Display', cursive;
+
+    /*FONTE TITULO H2*/
+    --fonte-titulo2: 'font' cursive;
+    
+    /*FONTE TITULO h3*/
+    --fonte-titulo3: 'Pacifico', cursive;
+}
